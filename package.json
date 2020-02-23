@@ -1,0 +1,20 @@
+{
+  "name": "update-roster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ali sultani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^39.2.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "puppeteer": "^1.20.0",
+    "puppeteer-core": "^2.1.1"
+  }
+}
